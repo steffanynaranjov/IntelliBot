@@ -1,0 +1,157 @@
+{
+  "company": {
+    "name": "IntelliBot",
+    "logo": "/assets/images/logobg.png"
+  },
+  "navigation": [
+    {
+      "name": "Product",
+      "href": "product"
+    },
+    {
+      "name": "Features",
+      "href": "features"
+    },
+
+    {
+      "name": "Pricing",
+      "href": "pricing"
+    },
+    {
+      "name": "About",
+      "href": "about"
+    }
+  ],
+  "callToAction": {
+    "text": "Get started",
+    "href": "#"
+  },
+  "mainHero": {
+    "title": "IntelliBot",
+    "subtitle": "Unlocking Knowledge with AI",
+    "description": " Chatbots that understand and respond to customer queries using information extracted from PDF manuals, FAQs, and other documents.",
+    "img": "/assets/images/happy2.jpeg",
+    "primaryAction": {
+      "text": "Get started",
+      "href": "#"
+    },
+    "secondaryAction": {
+      "text": "Email us",
+      "href": "mailto:steffanynaranjov@gmail.com?subject=Informarion about AI solution"
+    }
+  },
+  "product": {
+    "title": "IntelliBot",
+    "items": [
+      {
+        "title": "Interactive AI Chatbot",
+        "description": "Chatbots that understand and respond to customer queries using information extracted from PDF manuals, FAQs, and other documents",
+        "img": "/assets/images/product1.png"
+      },
+      {
+        "title": "Document-Based AI Knowledge Bot",
+        "description": "A bot that scans, indexes, and retrieves information from large collections of documents (PDFs, Word documents, etc.) to provide instant answers",
+        "img": "/assets/images/product2.png"
+      },
+      {
+        "title": "Data Analyst Bot",
+        "description": "With the ability to read complex tablets and analyst the information",
+        "img": "/assets/images/dataanalyst.png"
+      }
+    ]
+  },
+  "features": {
+    "title": "Latest & greatest ",
+    "subtitle": "All the best technologies out there!",
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "items": [
+      {
+        "name": "React.js",
+        "description": "React is a free and open-source front-end JavaScript library for building user interfaces or UI components.",
+        "icon": "/assets/images/react.png"
+      },
+      {
+        "name": "Tailwind",
+        "description": "Tailwind CSS is a highly customizable, low-level CSS framework for quickly creating beautiful designs without any annoying opinionated stylesheet nonsense.",
+        "icon": "/assets/images/tailwindcss.svg"
+      },
+      {
+        "name": "Next.js",
+        "description": "Next.js is a framework for server-rendered React applications using Next.js.",
+        "icon": "/assets/images/nextjs.svg"
+      },
+      {
+        "name": "Typescript",
+        "description": "TypeScript is a programming language developed and maintained by Microsoft.",
+        "icon": "/assets/images/ts.png"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Pricing",
+    "items": [
+      {
+        "name": "Basic Tier",
+        "price": "$100",
+        "priceDetails": "month",
+        "features": [
+          "Access to basic chatbot functionalitiesr",
+          "Limited document processing (1)",
+          "Standard support (24-48 hour response time)",
+          "Basic customization options"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": "$200",
+        "priceDetails": "month",
+
+        "features": [
+          "Access to advanced chatbot functionalities ",
+          "Increased document processing limit (up to 5,000 pages/month)",
+          "Priority support",
+          "Monthly training webinars"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "price": "Contact us",
+        "priceDetails": "",
+        "features": [
+          "Unlimited chatbot functionalities",
+          "High volume document processing (50,000+ pages/month)",
+          "Full customization",
+          "Premium support "
+        ]
+      }
+    ]
+  },
+  "about": {
+    "sections": [
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      }
+    ],
+    "socialMedia": {
+      "github": "https://github.com/steffanynaranjov",
+      "linkedin": "https://www.linkedin.com/in/steffanynaranjov/"
+    }
+  }
+}

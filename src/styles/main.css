@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+:root {
+  --color-primary: #1DC8C8;
+  --color-secondary: #020f1f;
+  --color-tertiaty: ##32455D;
+}
+
+a { 
+  @apply text-secondary;
+}
+
+a:hover {
+  @apply border-b-2 border-secondary;
+}
+
+
+
+.content p {
+  @apply my-6;
+}
+
+.content ul {
+  @apply my-6;
+}
